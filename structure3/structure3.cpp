@@ -43,3 +43,5 @@ int main() {
 		cout << "\nUmur : " << mhs[i].umur;
 	}
 }
+
+
