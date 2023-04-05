@@ -39,5 +39,3 @@ int main() {
 	cout << "\nUmur : " << mhs.umur;
 }
 
-
-
